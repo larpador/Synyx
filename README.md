@@ -11,7 +11,7 @@ Como Usar:
 ```pip install tqdm```
 
 *3. Execute o script:*
-
+```cd Synyx```
 ```python cloud.py```
 
 *4. Tutorial pós:*
