@@ -37,7 +37,7 @@ def display_header():
     display_red_ascii_art()
     print("\n\nURL:LOG:PASS EXTRATOR")
     print(f"{gold_color}Owner: X{reset_color}")
-    print(f"{telegram_color}Telegram: @larpador{reset_color}\n")
+    print(f"{telegram_color}Telegram: @ruinyourfuture{reset_color}\n")
 
 def clean_filename(filename):
     return re.sub(r'[<>:"/\\|?*]', '_', filename)
